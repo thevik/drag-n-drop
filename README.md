@@ -7,4 +7,4 @@ Detailed Blog on how to make it - https://dev.to/heheprogrammer/how-to-make-a-dr
 
 Github Pages to test this out - https://thevik.github.io/drag-n-drop/
 
-Thanks.
+Thanks......
